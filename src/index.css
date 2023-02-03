@@ -185,10 +185,10 @@ main {
   height: 40px;
   border: none;
   background-color: var(--clr-white);
-  margin-left: 120px;
+  margin-left: 140px;
 }
 .title {
-  margin-left: 80px;
+  margin-left: 100px;
   text-decoration: underline;
 }
 .del_btn {
